@@ -988,10 +988,10 @@ This sample demonstrates how to run transactions as part of an NV test.
 In this sample, the NV test starts with the "3G Busy" network scenario, running three transactions (see below).
 After the sample stops and analyzes the NV test, it prints the analysis .zip file path to the console.
 
-This sample runs three NV transactions:
-1. "Home Page" transaction: Navigates to the home page in the HPE Network Virtualization website
-2. "Get Started" transaction: Navigates to the Get Started Now page in the HPE Network Virtualization website
-3. "Overview" transaction: Navigates back to the home page in the HPE Network Virtualization website
+This sample runs three NV transactions:  
+1. "Home Page" transaction: Navigates to the home page in the HPE Network Virtualization website  
+2. "Get Started" transaction: Navigates to the Get Started Now page in the HPE Network Virtualization website  
+3. "Overview" transaction: Navigates back to the home page in the HPE Network Virtualization website  
 	
 ##### BasicAnalyzeNVTransactions.java steps:
 1. Create a _TestManager_ object and initialize it.
@@ -1019,9 +1019,9 @@ In this sample, the NV test starts with the "WiFi" network scenario, running thr
   
 After the sample analyzes the NV test and extracts the transaction times from the analysis results, it prints a summary to the console. The summary displays the comparative network times for each transaction in both network scenarios. 
 
-This sample runs three identical NV transactions before and after the real-time update:
-1. "Home Page" transaction: Navigates to the home page in the HPE Network Virtualization website   
-2. "Get Started" transaction: Navigates to the Get Started Now page in the HPE Network Virtualization website 
+This sample runs three identical NV transactions before and after the real-time update:  
+1. "Home Page" transaction: Navigates to the home page in the HPE Network Virtualization website  
+2. "Get Started" transaction: Navigates to the Get Started Now page in the HPE Network Virtualization website  
 3. "Overview" transaction: Navigates back to the home page in the HPE Network Virtualization website  
   
 ##### BasicAnalyze2Scenarios.java steps:
