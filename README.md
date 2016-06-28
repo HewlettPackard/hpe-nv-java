@@ -7,7 +7,7 @@ The NV API lets you test your application behavior under various network conditi
 
 Learn more about NV at http://nvhelp.saas.hpe.com/en/9.10.  
 
-This Java library lets you call the NV API in your automatic tests (for example, your Selenium tests). You can use this API instead of using the NV Test Manager user interface. 
+This Java library lets you call the NV API in your automated tests (for example, your Selenium tests). You can use this API instead of using the NV Test Manager user interface. 
 
 This Readme includes the following topics:
 * Prerequisites
